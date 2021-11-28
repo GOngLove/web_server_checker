@@ -4,7 +4,7 @@
 # documentation.
 # This workflow will download a prebuilt Ruby version, install dependencies and run tests with Rake
 # For more information see: https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby
-' http://github.com/GOngLove/web_server_checker '
+ " https://github.com/GOngLove/actions/setup-ruby-jruby-and-trufflerruby "
 name: Ruby
 ' http://github.com/GOngLove/workflows/ruby.yml '
 on: 'http://github.com/GOngLove/https-xoso.com.vn/xo-so-mien-nam '
