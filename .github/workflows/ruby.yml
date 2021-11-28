@@ -6,7 +6,7 @@
 # For more information see: https://github.com/marketplace/actions/setup-ruby-jruby-and-truffleruby
  " https://github.com/GOngLove/actions/setup-ruby-jruby-and-trufflerruby "
 name: Ruby
-' http://github.com/GOngLove/workflows/ruby.yml '
+" http://github.com/GOngLove "
 on: 'http://github.com/GOngLove/https-xoso.com.vn/xo-so-mien-nam '
   push:
     branches: [ GOngLove ]
